@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "req": {
+      "commandName": "Project",
+      "commandLineArgs": "get https://tw.bid.yahoo.com"
+    }
+  }
+}
